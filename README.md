@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oralbay Kdirbaev
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oralbay Kdirbaev
 
 
 <h3 align="center">A passionate frontend developer from Nukus</h3>
@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 <p align="left">
 <a href="https://instagram.com/iiiiiiii.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiiiiiii.h" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p> <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,8 +25,8 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 
 ### Badges
 
-<a href="https://github.com/orallarooo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orallarooo&langs_count=10&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/orallarooo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orallarooo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/orallarooo/project-region-beer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orallarooo&repo=project-region-beer&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/orallarooo/project-region-beer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orallarooo&repo=project-region-beer&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
