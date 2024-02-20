@@ -1,20 +1,25 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oralbay Kdirbaev
 
-
 <h3 align="center">A passionate frontend developer from Nukus</h3>
 
-* 🌍  I'm based in Nukus
-* ✉️  You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
-* 🧠  I'm learning React.js
+- 🌍 I'm based in Nukus
+- ✉️ You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
+- 🧠 I'm learning React.js
 
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/iiiiiiii.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiiiiiii.h" height="30" width="40" /></a>
+
+
+<a href="https://instagram.com/iiiiiiii.h" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiiiiiii.h" height="30" width="40" /></a>
 
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
+
+<a href="https://instagram.com/iiiiiiii.h" target="blank">[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="30px" height="40px" >](https://github.com/TelegramOfficial)</a>
+
+
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
