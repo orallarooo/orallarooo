@@ -10,17 +10,16 @@
 src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
 
-<a href="https://instagram.com/iiiiiiii.h" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiiiiiii.h" height="30" width="40" /></a>
 
-<a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
+<p align="left"> <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/iiiiiiii.h" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-<a href="https://instagram.com/iiiiiiii.h" target="blank">[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="30px" height="40px" >](https://github.com/TelegramOfficial)</a>
+<a href="https://t.me/kdirbaevoral" target="blank">[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="30px" height="30px" >]</a>
 
 
-  </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
