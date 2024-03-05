@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Nukus</h3>
 
-- 🌍 I'm based in Nukus
-- ✉️ You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
-- 🧠 I'm learning React.js
+ 🌍 I'm based in Nukus
+ ✉️ You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
+ 🧠 I'm learning React.js
 
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
