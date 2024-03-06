@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oralbay Kdirbaev
 
-<p align="left">"I am a skilled web developer with a passion for creating innovative and user-friendly websites. With a strong background in front-end and I specialize in creating responsive and visually appealing websites that meet the needs of my clients. I am proficient in HTML, CSS, JavaScript,  and JavaScript, HTML5/CSS3, Flex/Grid,Sass/Scss/Less,Tailwind Css,Git/Github, React.JS, Gulp and various web development frameworks. I am dedicated to staying up-to-date with the latest technologies and trends in the industry to deliver high-quality solutions that exceed expectations."</p>
+<p align="left">"I am a skilled web developer with a passion for creating innovative and user-friendly websites. With a strong background in front-end and I specialize in creating responsive and visually appealing websites that meet the needs of my clients. I am proficient in HTML, CSS, JavaScript, and JavaScript, HTML5/CSS3, Flex/Grid, Sass/Scss/Less, Tailwind Css, Git/Github, React.JS, Gulp and various web development frameworks. I am dedicated to staying up-to-date with the latest technologies and trends in the industry to deliver high-quality solutions that exceed expectations."</p>
 
  🌍 I'm based in Nukus
  <br />
