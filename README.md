@@ -2,7 +2,7 @@
 
 <p align="left">"I am a skilled web developer with a passion for creating innovative and user-friendly websites. With a strong background in front-end and I specialize in creating responsive and visually appealing websites that meet the needs of my clients. I am proficient in HTML, CSS, JavaScript, and JavaScript, HTML5/CSS3, Flex/Grid, Sass/Scss/Less, Tailwind Css, Git/Github, React.JS, Gulp and various web development frameworks. I am dedicated to staying up-to-date with the latest technologies and trends in the industry to deliver high-quality solutions that exceed expectations."</p>
 
- 🌍 I'm based in Nukus
+ 🌍 I'm based in Chimbay
  <br />
  ✉️ You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
  <br />
