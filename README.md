@@ -4,8 +4,6 @@
 
  🌍 I'm based in Chimbay
  <br />
- ✉️ You can contact me at [https://t.me/kdirbaevoral](mailto:https://t.me/kdirbaevoral)
- <br />
  🧠 I'm learning React.js
  <br />
 
@@ -17,8 +15,7 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 
 
 <p align="left">
- <a href="https://t.me/kdirbaevoral" target="blank" rel="noreferrer"><img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="32px" height="32px" ></a>
- <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="https://instagram.com/iiiiiiii.h" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiiiiiii.h" height="32" width="32" /></a>
+ <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 </p>
 
 
