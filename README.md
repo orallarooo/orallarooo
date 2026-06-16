@@ -32,7 +32,10 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 </p>
 
 <b align="left">My GitHub Stats</b>
-![Oral's GitHub stats](https://github-readme-stats.vercel.app/api?username=oral&show_icons=true&theme=radical)
+<p align="left">
+ ![Oral's GitHub stats](https://github-readme-stats.vercel.app/api?username=oral&show_icons=true&theme=radical)
+</p>
+
 
 
 <a href="http://www.github.com/orallarooo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orallarooo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
