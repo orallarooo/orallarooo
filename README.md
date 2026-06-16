@@ -2,9 +2,6 @@
 
 <p align="left">I am a skilled web developer with a passion for creating innovative and user-friendly websites. With a strong background in front-end, I specialize in creating responsive and visually appealing websites. I am proficient in HTML, CSS, JavaScript, HTML5/CSS3, Flex/Grid, Sass/Scss/Less, Tailwind CSS, Git/Github, React.JS, Gulp and various web development frameworks.</p>
 
-🌍 I'm based in Chimbay  
-🧠 I'm learning React.js
-
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
 </a>
