@@ -1,6 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oralbay Kdirbaev
-
-<p align="left">I am a skilled web developer with a passion for creating innovative and user-friendly websites. With a strong background in front-end, I specialize in creating responsive and visually appealing websites. I am proficient in HTML, CSS, JavaScript, HTML5/CSS3, Flex/Grid, Sass/Scss/Less, Tailwind CSS, Git/Github, React.JS, Gulp and various web development frameworks.</p>
+# Hi! My name is Oralbay Kdirbaev
 
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
