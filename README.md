@@ -1,7 +1,7 @@
 # Hi!
 
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
