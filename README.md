@@ -33,8 +33,9 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="40" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" /></a>  
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" height="40" /></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Zustand" height="40" /></a>
+<a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" height="40" /></a>
+
 </div>
 
 ### Backend  
