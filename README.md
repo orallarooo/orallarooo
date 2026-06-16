@@ -1,8 +1,6 @@
 # Hi!
 
-<a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 ---
 
@@ -11,7 +9,10 @@
 <p align="left">
 <a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" /></a><a href="https://www.linkedin.com/in/oralbayqdirbayev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a><a href="https://t.me/kdirbaevoral" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" alt="Telegram" /></a>
 </p>
-
+---
+<a href="https://www.github.com/orallarooo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
