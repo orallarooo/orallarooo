@@ -48,7 +48,7 @@
 </p>
 
 ---
-<h3 align="left">My GitHub Steak:</h3>
+<h3 align="left">My GitHub Streak:</h3>
 <p align="left">
   <a href="http://www.github.com/orallarooo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=orallarooo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=radical" />
