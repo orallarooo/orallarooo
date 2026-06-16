@@ -32,9 +32,9 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 </p>
 
 <b align="left">My GitHub Stats</b>
-<p align="left">
+<a align="left">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</p>
+</a>
 
 
 
