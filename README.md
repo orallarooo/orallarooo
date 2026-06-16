@@ -31,8 +31,8 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<b>My GitHub Stats</b>
-![Oral's GitHub stats](https://github-readme-stats.vercel.app/api?username=oral&show_icons=true&theme=onedark)
+<b align="left">My GitHub Stats</b>
+![Oral's GitHub stats](https://github-readme-stats.vercel.app/api?username=oral&show_icons=true&theme=radical)
 
 
 <a href="http://www.github.com/orallarooo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orallarooo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
