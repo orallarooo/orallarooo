@@ -56,4 +56,4 @@
 ---
 <h3 align="left">My Languages:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orallarooo&layout=pie)](https://github.com/orallarooo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orallarooo&layout=pie&theme=dark)](https://github.com/orallarooo/github-readme-stats)
