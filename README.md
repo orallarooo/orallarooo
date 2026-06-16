@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/orallarooo?logo=github&style=for-th
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![Oral's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 
 
