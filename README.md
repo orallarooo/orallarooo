@@ -50,7 +50,15 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="ESLint" height="40" /></a>
-<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/10076947?s=200&v=4" alt="Stylelint" height="40" /></a>
+
+  <!-- Вариант 1 -->
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/stylelint/stylelint/main/docs/assets/stylelint-icon.svg" alt="Stylelint" height="40" /></a>
+
+<!-- Вариант 2 -->
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" alt="Stylelint" height="40" /></a>
+
+<!-- Вариант 3 -->
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/stylelint/stylelint.png" alt="Stylelint" height="40" /></a>
 </div>
 
 ---
