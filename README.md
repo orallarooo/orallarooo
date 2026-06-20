@@ -51,7 +51,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="ESLint" height="40" /></a>
 <a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/stylelint/stylelint/main/docs/assets/stylelint-icon.png" alt="Stylelint" height="40" /></a>
-<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/stylelint/stylelint/main/docs/assets/stylelint-icon.png" alt="Stylelint" height="40" /></a>
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="[https://raw.githubusercontent.com/stylelint/stylelint/main/docs/assets/stylelint-icon.png](https://www.svgrepo.com/show/373789/light-stylelint.svg)" alt="Stylelint" height="40" /></a>
 </div>
 
 ---
