@@ -39,12 +39,6 @@
 
 </div>
 
-### Backend  
-<div align="left">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" height="40" /></a>
-</div>
-
 ### Tools
 <div align="left">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
@@ -56,8 +50,14 @@
 ### Tests
 <div align="left">  
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
-<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=86f5188d77471dfdc311a481b03111e831c38636-12422009-images-thumbs&n=13" alt="Storybook" height="40" /</a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=86f5188d77471dfdc311a481b03111e831c38636-12422009-images-thumbs&n=13" alt="Storybook" height="40" /></a>
 <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" height="40" /></a>
+</div>
+
+### Backend  
+<div align="left">  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" height="40" /></a>
 </div>
 
 ---
