@@ -47,13 +47,17 @@
 
 ### Tools
 <div align="left">  
-<a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
 <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="ESLint" height="40" /></a>
 <a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" alt="Stylelint" height="40" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 </div>
 
+### Tests
+<div align="left">  
+<a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" alt="Storybook" height="40" /></a>
+</div>
 ---
 
 <h3 align="left">My GitHub Stats:</h3>
