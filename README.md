@@ -56,7 +56,7 @@
 ### Tests
 <div align="left">  
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
-<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" alt="Storybook" height="40" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/storybookjs/brand/main/badge/badge-storybook.svg" alt="Storybook" height="40" /></a
 </div>
 ---
 
