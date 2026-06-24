@@ -56,7 +56,8 @@
 ### Tests
 <div align="left">  
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
-<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=86f5188d77471dfdc311a481b03111e831c38636-12422009-images-thumbs&n=13" alt="Storybook" height="40" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=86f5188d77471dfdc311a481b03111e831c38636-12422009-images-thumbs&n=13" alt="Storybook" height="40" /</a>
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" height="40" /></a>
 </div>
 
 ---
