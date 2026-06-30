@@ -62,14 +62,6 @@
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=orallarooo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 <h3 align="left">My Languages:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orallarooo&layout=pie&theme=radical)](https://github.com/orallarooo/github-readme-stats)
